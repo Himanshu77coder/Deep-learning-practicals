@@ -20,4 +20,4 @@ Use Jupyter Notebook with Python 3 and install the packages required by the indi
 
 ## Experiment 6 dataset
 
-The custom image dataset is intentionally not stored in this repository. See `Experiment-6/README.md` for the expected folder layout and setup instructions.
+The custom image dataset is included in `Experiment-6/custom_image_dataset/`. See `Experiment-6/README.md` for its folder layout and usage instructions.

@@ -10,7 +10,3 @@ venv/
 *.keras
 *.ckpt
 *.log
-
-# Experiment 6 local dataset
-custom_image_dataset/
-custom_image_dataset.zip
