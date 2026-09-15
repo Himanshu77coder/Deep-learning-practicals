@@ -1,0 +1,16 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Model files and generated outputs
+*.h5
+*.keras
+*.ckpt
+*.log
+
+# Experiment 6 local dataset
+custom_image_dataset/
+custom_image_dataset.zip
